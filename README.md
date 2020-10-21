@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Get Distracted alot 
 
 
-### Connect With Me
+### Connect With Me :v:
 <br>
 <a href="https://twitter.com/DaniyaNiazii">
   <img align="left" alt="Daniya Niazi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -27,5 +27,6 @@
   <img align="left" alt="Ghous's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
-
+<div align='center'>
+![Daniya's github stats](https://github-readme-stats.vercel.app/api?username=daniyaniazi&show_icons=true)
+</div>
