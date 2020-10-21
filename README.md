@@ -1,13 +1,13 @@
 ### Hi Peeps 👋
 
 <!--
-**daniyaniazi/daniyaniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daniyaniazi/daniyaniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning Django
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Get Distracted alot -->
-<!-- <hr> -->
+- ⚡ Fun fact: Get Distracted alot 
+ <hr> 
 ## Connect With Me
 <a href="https://twitter.com/DaniyaNiazii">
   <img align="left" alt="Daniya Niazi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,6 +24,6 @@
 <a href="mailto:danianiazi85@gmail.com">
   <img align="left" alt="Ghous's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-                               <!-- <hr> -->
+ <hr> 
 
 
