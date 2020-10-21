@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning Django
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Get Distracted alot 
+- ⚡ Fun fact: Get Distracted alot -->
 <!-- <hr> -->
 ## Connect With Me
 <a href="https://twitter.com/DaniyaNiazii">
@@ -25,7 +25,5 @@
   <img align="left" alt="Ghous's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
                                <!-- <hr> -->
-<div align='center'>
-  ![Daniya's github stats](https://github-readme-stats.vercel.app/api?username=daniyaniazi&show_icons=true)
-</div>
--->
+
+
