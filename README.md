@@ -44,5 +44,5 @@
 <p float="left">
 <img src='https://github-readme-stats.vercel.app/api?username=daniyaniazi&show_icons=true&theme=algolia' height:100>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaniazi&layout=compact'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaniazi&layout=compact'  height:100>
  </p>
