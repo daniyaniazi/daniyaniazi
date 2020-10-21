@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Django
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Get Distracted alot 
- <!--> <hr> <-->
+
 <br>
 <a href="https://twitter.com/DaniyaNiazii">
   <img align="left" alt="Daniya Niazi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
