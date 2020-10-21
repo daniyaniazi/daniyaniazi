@@ -27,6 +27,7 @@
   <img align="left" alt="Ghous's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br>
 
-![Daniya's github stats](https://github-readme-stats.vercel.app/api?username=daniyaniazi&show_icons=true)
+![Daniya's github stats](https://github-readme-stats.vercel.app/api?username=daniyaniazi&show_icons=true&theme=algolia)
 
