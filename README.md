@@ -28,6 +28,6 @@
 </a>
 
 <br>
-
 ![Daniya's github stats](https://github-readme-stats.vercel.app/api?username=daniyaniazi&show_icons=true&theme=algolia)
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaniazi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
