@@ -41,8 +41,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 
 <br><br>
-<p float="left">
+<p align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=daniyaniazi&show_icons=true&theme=algolia' height:'50'>
-
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaniazi&layout=compact'>
  </p>
