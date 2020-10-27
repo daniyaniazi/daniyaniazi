@@ -3,7 +3,7 @@
 <!--
 **daniyaniazi/daniyaniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on Deep Learning
+- 🔭 I’m currently working on Machine | Deep Learning
 - 🌱 I’m currently learning Django
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Get Distracted alot 
