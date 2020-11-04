@@ -16,14 +16,14 @@
 <a href="https://www.linkedin.com/in/daniya-niazi-b361131a4/">
   <img align="left" alt="LinkedIn Daniya Niazi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href=https://web.facebook.com/dania.niazi.9//">
+<a href=https://www.facebook.com/dania.niazi.9">
   <img align="left" alt="Daniya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/dodoniazi/">
   <img align="left" alt="Daniya's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto:danianiazi85@gmail.com">
-  <img align="left" alt="Ghous's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Daniya's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>        
                                
