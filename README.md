@@ -1,3 +1,5 @@
+<img align='right' src="https://static.vecteezy.com/system/resources/previews/000/450/872/non_2x/woman-with-laptop-sitting-isolated-on-white-background-concept-illustration-for-working-freelancing-studying-education-work-from-home-vector-illustration-in-flat-cartoon-style.jpg" width="210">
+
 ### Hi Peeps 👋
 
 <!--
@@ -7,7 +9,7 @@
 - :books: I’m currently learning Django :green_heart:  | React :blue_heart:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to do Skechting :art: | Photography  :camera:
-<img align='right' src="https://static.vecteezy.com/system/resources/previews/000/450/872/non_2x/woman-with-laptop-sitting-isolated-on-white-background-concept-illustration-for-working-freelancing-studying-education-work-from-home-vector-illustration-in-flat-cartoon-style.jpg" width="210">
+
 ### Connect With Me :v:
 <br>
 <a href="https://twitter.com/DaniyaNiazii">
