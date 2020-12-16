@@ -47,5 +47,5 @@
 <br><br>
 <p align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=daniyaniazi&show_icons=true&theme=algolia' height:'50'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaniazi&layout=compact'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaniazi&layout=compact&theme=algolia'>
  </p>
