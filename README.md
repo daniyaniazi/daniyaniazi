@@ -5,9 +5,8 @@
 <!--
 **daniyaniazi/daniyaniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- :computer: I’m currently working on Django :green_heart:
-- :books: I’m currently learning  React :blue_heart:
-- 😄 Pronouns: she/her
+- :computer: I’m currently learning  React Native | MERN Stack | Deep Learning :blue_heart:
+- 😄 :  Ask me about Web Develpment | Artificial Intelligence | Computer Vision | DL | ML
 - ⚡ Fun fact: I love to do Skechting :art: | Photography  :camera:
 
 ### Connect With Me :v:
