@@ -1,5 +1,5 @@
 
-<img src="https://img.icons8.com/fluent/50/000000/artificial-intelligence.png" align='left' />
+<img src="https://cdn2.vectorstock.com/i/1000x1000/77/36/artificial-intelligence-ai-icon-vector-23097736.jpg" align='left' width=100  />
 <img src="https://www.chapter247.com/wp-content/uploads/2019/06/mern-h11.svg" width=100 />
 
 
