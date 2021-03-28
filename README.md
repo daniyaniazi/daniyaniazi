@@ -1,4 +1,5 @@
-<img align='right' src="https://static.vecteezy.com/system/resources/previews/000/450/872/non_2x/woman-with-laptop-sitting-isolated-on-white-background-concept-illustration-for-working-freelancing-studying-education-work-from-home-vector-illustration-in-flat-cartoon-style.jpg" width="210">
+
+<img  align='right' src="https://img.icons8.com/fluent/50/000000/artificial-intelligence.png"  width="210"/>
 
 ### Hello World 👋
 
