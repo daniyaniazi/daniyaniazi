@@ -1,6 +1,6 @@
 
 <img src="https://img.icons8.com/fluent/50/000000/artificial-intelligence.png"/>
-<img src="https://www.chapter247.com/wp-content/uploads/2019/06/mern-h11.svg"/>
+<img src="https://www.chapter247.com/wp-content/uploads/2019/06/mern-h11.svg" width=50 />
 
 
 ### Hello World 👋
