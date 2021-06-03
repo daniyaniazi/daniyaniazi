@@ -4,10 +4,12 @@
 
 <!--
 **daniyaniazi/daniyaniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+- :computer: I’m currently working on React
 - :computer: I’m currently learning MERN Stack :blue_heart:
 - 😄 :  Ask me about Web Develpment | Artificial Intelligence | Computer Vision | DL | ML
 - ⚡ Fun fact: I love to do Skechting :art: | Photography  :camera:
+
+- Exploring : Ant Design 
 
 ### Connect With Me :v:
 <br>
