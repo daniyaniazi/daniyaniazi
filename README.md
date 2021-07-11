@@ -13,21 +13,10 @@
 
 ### Connect With Me :v:
 <br>
-<a href="https://twitter.com/DaniyaNiazii">
-  <img align="left" alt="Daniya Niazi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/daniya-niazi-b361131a4/">
-  <img align="left" alt="LinkedIn Daniya Niazi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href=https://www.facebook.com/dania.niazi.9">
-  <img align="left" alt="Daniya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/dodoniazi/">
-  <img align="left" alt="Daniya's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:danianiazi85@gmail.com">
-  <img align="left" alt="Daniya's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/daniya-niazi-b361131a4/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:danianiazi85@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Facebook Connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dania.niazi.9)
+
 <br>        
                                
 ### Tech Stack :computer:
