@@ -5,7 +5,7 @@
 <!--
 **daniyaniazi/daniyaniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - :computer: I’m currently working on MERN
-- :computer: I’m currently learning NextJs :blue_heart:
+- :computer: I’m currently learning NextJs | React-Native :blue_heart:
 - 😄 :  Ask me about Web Develpment | Artificial Intelligence | Computer Vision | DL | ML
 - ⚡ Fun fact: I love to do Skechting :art: | Photography  :camera:
 
