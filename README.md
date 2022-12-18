@@ -1,6 +1,7 @@
 
 
 ### Hello World 👋
+![Black Modern Minimal Personal Trainer LinkedIn Banner (1)](https://user-images.githubusercontent.com/55786784/208314798-38f7c894-3dbe-4d1a-b13c-7666604ef456.png)
 
 <!--
 **daniyaniazi/daniyaniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
