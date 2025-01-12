@@ -1,7 +1,7 @@
 
 
 ### Hello World 👋
-![Black Modern Minimal Personal Trainer LinkedIn Banner (1)](https://user-images.githubusercontent.com/55786784/208314798-38f7c894-3dbe-4d1a-b13c-7666604ef456.png)
+![Green and Beige Organic Product Designer with Circle Frame LinkedIn Banner (4)](https://github.com/user-attachments/assets/bfde5dd8-842f-45d7-8fb1-11bfb454018e)
 
 <!--
 **daniyaniazi/daniyaniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -12,7 +12,7 @@
 
 - Exploring : Ant Design 
  -->
- Looking to collaborate on Exciting Projects
+ Looking to collaborate on Exciting AI Projects
 ### Connect With Me :v:
 <br>
 
