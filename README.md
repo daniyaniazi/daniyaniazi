@@ -1,7 +1,7 @@
 
 
 ### Hello World 👋
-![Green and Beige Organic Product Designer with Circle Frame LinkedIn Banner (4)](https://media.licdn.com/dms/image/v2/D4D16AQHPcv8QNalfXg/profile-displaybackgroundimage-shrink_350_1400/B4DZmR4plkGsAY-/0/1759089171645?e=1761782400&v=beta&t=ualra_ZjK1BPNGKqEXElDeuX8FTmg_RbZQ2GcwkH5qg)
+![]()
 
 <!--
 **daniyaniazi/daniyaniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
